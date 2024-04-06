@@ -1,2 +1,1 @@
-# Custom-Holdables
-This is where I put my custom holdables for the HoldablePad Mod.
+Take these files and put them into the Holdables folder in the Plugins folder for BepInEx.
